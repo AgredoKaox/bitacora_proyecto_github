@@ -46,3 +46,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Dinamica grupal para definir penitencia por tardanzas: El instructor propuso una lluvia de ideas entre todo el grupo para acordar una "penitencia" o consecuencia simbolica que se aplicaria a quienes lleguen tarde a partir de ahora. El objetivo era fomentar la puntualidad de manera colaborativa y ludica.
 Impedimento: Ninguno. La dinamica fue participativa y se logro un acuerdo grupal.
 Plan de accion: Cumplir con el horario establecido y respetar la penitencia acordada para evitar aplicarla.
+
+id: 7
+Fecha: 03/09/2026
+hora: 15:30 - 15:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Entrega del trabajo practico de Git antes del descanso: El instructor dio 15 minutos adicionales para finalizar y entregar el trabajo de la guia de Git que estabamos realizando, con el fin de cerrar la actividad antes del receso.
+Impedimento: Ninguno. El tiempo fue suficiente para revisar y entregar el trabajo sin contratiempos.
+Plan de accion: Ninguno tecnico. Los comandos se ejecutaron sin errores; sin embargo, al principio tuve que recordar la sintaxis exacta de algunos comandos, pero con la practica fluyo bien.
