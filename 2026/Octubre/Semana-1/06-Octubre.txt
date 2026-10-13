@@ -6,3 +6,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Explicacion inicial de la actividad de Git: El instructor explico la dinamica del dia, la cual consistia en la revision uno por uno de los comandos y flujos de Git, pasando a cada aprendiz al frente para verificar que sabia ejecutarlos correctamente
 Impedimento: Ninguno. La jornada comenzo con las orientaciones del instructor para desarrollar la actividad.
 Plan de accion: Repasar los conceptos y procedimientos de Git trabajados durante la formacion para fortalecer los conocimientos tecnicos.
+
+id: 2
+Fecha: 06/10/2026
+hora: 12:45 - 14:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Actividad de Git - Revision uno por uno y paso al frente: Durante toda la jornada, el instructor reviso individualmente a cada aprendiz. Cada uno paso al frente a ejecutar los comandos y flujos de Git aprendidos, demostrando su dominio practico frente al instructor y sus companeros.
+Impedimento: Ninguno. La dinamica permitio demostrar el conocimiento y aclarar dudas en el momento.
+Plan de accion: Practicar los comandos que mas dificultad generaron y repasar el flujo completo de ramas y recuperacion de archivos.
