@@ -14,3 +14,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Creacion del repositorio en GitHub: Se creo un repositorio normal en GitHub siguiendo las indicaciones de la guia. Se definio el nombre del repositorio y se configuro como publico para permitir la colaboracion entre los integrantes del grupo.
 Impedimento: Ninguno. La creacion del repositorio se realizo sin contratiempos.
 Plan de accion: Compartir el repositorio con los integrantes del grupo y agregarlos como colaboradores.
+
+id: 3
+Fecha: 08/10/2026
+hora: 12:45 - 14:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Configuracion de colaboradores y clonacion del repositorio: Despues de varias complicaciones para entender el proceso, la guia dio las indicaciones necesarias para compartir el repositorio, agregar colaboradores y clonar el repositorio en los equipos locales. Se resolvieron dudas sobre permisos y autenticacion.
+Impedimento: Complicaciones iniciales: Al principio fue enredado entender como compartir el repositorio y agregar colaboradores. Se presentaron dudas sobre los permisos y la forma de invitar a los integrantes del grupo. Se resolvio siguiendo paso a paso las indicaciones de la guia.
+Plan de accion: Practicar la creacion de repositorios, agregar colaboradores y clonar repositorios para afianzar el flujo de trabajo colaborativo. Realizar pruebas de push y pull con el grupo.
