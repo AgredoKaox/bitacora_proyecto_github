@@ -6,3 +6,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Recepcion de instrucciones y alineacion: El instructor explico la metodologia del dia, indicando que se debian tomar capturas de pantalla de todo el proceso en la terminal (Git Bash) para evidenciar la ejecucion de la actividad de apropiacion, ya que en la sesion anterior no se registro dicho proceso visualmente.
 Impedimento: Confusion inicial: No entendia por que se debia repetir la actividad si ya la habiamos realizado la clase pasada. La falta de claridad sobre el requisito de capturas genero incertidumbre.
 Plan de accion: Preguntar al instructor y a companeros para aclarar el proposito de la actividad y confirmar que el enfoque era documentar el proceso, no repetir el contenido desde cero.
+
+id: 2
+Fecha: 20/08/2026
+hora: 12:50 - 13:20
+autor: Juan Sebastian Agredo Garcia
+Actividad: Ejecucion del laboratorio de apropiacion - Terminal / Git Bash: Realizacion de comandos y procesos en la terminal segun la guia de trabajo, documentando paso a paso con capturas de pantalla para evidenciar la ejecucion completa.
+Impedimento: Ningun impedimento.
+Plan de accion: Continuar con la siguiente actividad segun lo indicado por el instructor.
