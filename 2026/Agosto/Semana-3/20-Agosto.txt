@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 20/08/2026
+hora: 12:30 - 12:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Recepcion de instrucciones y alineacion: El instructor explico la metodologia del dia, indicando que se debian tomar capturas de pantalla de todo el proceso en la terminal (Git Bash) para evidenciar la ejecucion de la actividad de apropiacion, ya que en la sesion anterior no se registro dicho proceso visualmente.
+Impedimento: Confusion inicial: No entendia por que se debia repetir la actividad si ya la habiamos realizado la clase pasada. La falta de claridad sobre el requisito de capturas genero incertidumbre.
+Plan de accion: Preguntar al instructor y a companeros para aclarar el proposito de la actividad y confirmar que el enfoque era documentar el proceso, no repetir el contenido desde cero.
