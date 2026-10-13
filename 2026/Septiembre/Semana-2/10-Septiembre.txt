@@ -30,3 +30,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Reflexion inicial de la nueva guia de commit - Mini juego "Hackers vs Detectives": Se organizaron 2 grupos: uno de hackers y uno de detectives. La dinamica consistio en encontrar el codigo que salvaria todo. Despues se inicio la reflexion inicial de la nueva guia de commit.
 Impedimento: Ninguno. La dinamica fue clara y colaborativa; solo se requirio coordinar roles al inicio.
 Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
+
+id: 5
+Fecha: 10/09/2026
+hora: 17:00 - 17:20
+autor: Juan Sebastian Agredo Garcia
+Actividad: Socializacion de la guia de commit: Una vez terminado el mini juego, empezamos la socializacion de la nueva guia de commit, revisando indicaciones, conceptos y pasos a seguir.
+Impedimento: Ninguno. La explicacion fue clara y se resolvieron dudas generales.
+Plan de accion: Repasar la guia de commit y preparar el entorno para la practica de git commit, git log y control de cambios.
