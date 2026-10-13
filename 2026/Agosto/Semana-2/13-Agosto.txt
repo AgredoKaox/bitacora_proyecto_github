@@ -1,0 +1,56 @@
+
+id: 1
+Fecha: 13/08/2026
+hora: 13:05 - 13:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion y condicionamineto de la nueva actividad yguia tratada de la terminal con un breve tiempo de lectura de las indicaciones
+Impedimento: llegada tardia al ambiente de formacion, el cual no pude etender de buena manera lo que se estaba haciendo
+Plan de accion: preguntar al instructor tanto a companeros de las fichas, que se estaba realizando y pidiendo indicacciones y seguimiento de lo que habia que hacer
+
+id: 2
+Fecha: 13/08/2026
+hora: 13:30 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: explicacion de actividad de reflexion inicial para poder realizar el entregable.
+Impedimento: No entendi muy bien al principio lo que se pedia realizar y que cumplir, estaba un poco perdido.
+Plan de accion: Poner mas atencion e las indicacciones y consejos que me daban mis companeros de clase y lo que pedia el instructor.
+
+id: 3
+Fecha: 13/08/2026
+hora: 14:00 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Presentacion de lo investigado sobre las personas ciegas y sus exito con logros.
+Impedimento: Ninguno en general, llegado a este en punto ya estaba entiendo mejor lo que se tenia que hacer y estaba listo para las presentaciones.
+Plan de accion: Realizar los siguientes puntos de la reflexion incial y completarlos segun las indiciacioens de las guias, despues de las presentaciones que investigamos.
+
+id: 4
+Fecha: 13/08/2026
+hora: 15:30 - 15:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Realizacion de la bitacora, hasta el punto en el cual estamos y hemos llegado completando lo que hemos hecho hasta el pricipio de jornada de formacion.
+Impedimento: Ningun impedimento.
+Plan de accion: Realizar los siguientes puntos de la actividad deseada para culminarla.
+
+id: 5
+Fecha: 13/08/2026
+hora: 15:50 - 16:10
+autor: Juan Sebastian Agredo Garcia
+Actividad: Realizacion de la actividad de reflexion inicial.
+Impedimento: Ningun impedimento.
+Plan de accion: Esperar indicaciones del instructor para la realizacion de la actividad de contextualizacion.
+
+id: 6
+Fecha: 13/08/2026
+hora: 16:10 - 17:44
+autor: Juan Sebastian Agredo Garcia
+Actividad: Realizacion de la actividad de contextualizacion.
+Impedimento: no tenia claro por completmanete lo que se necesataba hacer o realizar.
+Plan de accion: Preguntarle de buena beanera la instructor que tocaba hacer y poder resolver mis dudas para poder realiazar la actividad.
+
+id: 7
+Fecha: 13/08/2026
+hora: 17:44 - 18:10
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion y Realizacion de la actividad de Apropiacion en la terminal.
+Impedimento: Ningun impedimento.
+Plan de accion: Llenar un documento de permiso sobre entrevista de mi experiencia con el ingles .

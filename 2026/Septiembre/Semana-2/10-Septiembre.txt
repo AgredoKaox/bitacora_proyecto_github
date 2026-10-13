@@ -1,0 +1,48 @@
+
+id: 1
+Fecha: 10/09/2026
+hora: 12:30 - 13:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Lectura y comprension de la actividad: Desde el inicio de la clase hasta la 1:00 pm, el instructor nos dejo leer la guia de la actividad a realizar para entender el objetivo, los pasos y lo que teniamos que hacer.
+Impedimento: Ninguno. El tiempo fue suficiente para comprender la actividad.
+Plan de accion: Identificar los comandos clave y preparar el entorno en Git Bash antes de empezar.
+
+id: 2
+Fecha: 10/09/2026
+hora: 13:00 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Desarrollo de la actividad "Transparencia 3.4" en terminal Git Bash: El instructor puso un contador de 2 horas para desarrollar la actividad de ramas y conflictos siguiendo las indicaciones de la guia.
+Impedimento: Confusion al unir dos ramas incorrectas: Al principio me equivoque en el merge, uni ramas que no correspondian. Para no perder mas tiempo, decidi reiniciar todo desde cero y repetir el procedimiento correctamente.
+Plan de accion: Verificar siempre los nombres de las ramas antes de hacer merge (git branch). Seguir la guia paso a paso y, si hay dudas, preguntar al instructor o a companeros antes de ejecutar. Practicar git log --graph para visualizar el historial.
+
+id: 3
+Fecha: 10/09/2026
+hora: 15:30 - 16:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Kahoot de desestres: Se realizaron 2 rondas de Kahoot con las mismas preguntas: una en grupo y otra individual, con el objetivo de divertirnos, desestresarnos y repasar de forma ludica.
+Impedimento: Ninguno. La dinamica fue entretenida y ayudo a bajar la tension despues de la actividad tecnica.
+Plan de accion: Identificar las preguntas falladas para repasar esos temas.
+
+id: 4
+Fecha: 10/09/2026
+hora: 16:30 - 17:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Reflexion inicial de la nueva guia de commit - Mini juego "Hackers vs Detectives": Se organizaron 2 grupos: uno de hackers y uno de detectives. La dinamica consistio en encontrar el codigo que salvaria todo. Despues se inicio la reflexion inicial de la nueva guia de commit.
+Impedimento: Ninguno. La dinamica fue clara y colaborativa; solo se requirio coordinar roles al inicio.
+Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
+
+id: 5
+Fecha: 10/09/2026
+hora: 17:00 - 17:20
+autor: Juan Sebastian Agredo Garcia
+Actividad: Socializacion de la guia de commit: Una vez terminado el mini juego, empezamos la socializacion de la nueva guia de commit, revisando indicaciones, conceptos y pasos a seguir.
+Impedimento: Ninguno. La explicacion fue clara y se resolvieron dudas generales.
+Plan de accion: Repasar la guia de commit y preparar el entorno para la practica de git commit, git log y control de cambios.
+
+id: 6
+Fecha: 10/09/2026
+hora: 17:20 - 18:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Actividad 3.2 de contextualizacion - Inicio de Git, ramas de trabajo y ramas temporales: Se comenzo a hablar sobre los init, la manera correcta de hacerlos, con ejemplos en el tablero. Se explico el flujo desde el inicio de Git hasta la creacion de ramas de trabajo y ramas temporales.
+Impedimento: Ninguno. La explicacion fue clara y los ejemplos en el tablero ayudaron a visualizar el proceso.
+Plan de accion: Practicar la creacion de ramas de trabajo y temporales, y repasar la diferencia entre git branch y git checkout -b.
