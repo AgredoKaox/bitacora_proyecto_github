@@ -70,3 +70,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Presentacion de candidatos a representantes de aprendices: Los aspirantes al cargo de representante del grupo expusieron sus ideas, propuestas y ofertas para mejorar la experiencia de formacion. Se realizo un espacio de escucha activa y preguntas.
 Impedimento: Ninguno. La presentacion fue clara y permitio conocer las distintas propuestas.
 Plan de accion: Evaluar las propuestas de los candidatos y estar atento a la fecha de votacion formal para elegir al representante.
+
+id: 10
+Fecha: 03/09/2026
+hora: 16:50 - 18:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Ejercicio guiado sobre ramas y conflictos en Git: El instructor guio un ejercicio practico donde se trabajo con ramas (git branch, git checkout), se realizaron cambios en diferentes ramas y se simularon conflictos de fusion (merge) para aprender a resolverlos.
+Impedimento: Confusion en la resolucion de conflictos: Al principio no entendia como resolver un conflicto cuando dos ramas modificaban la misma linea de un archivo. Con la guia del instructor y la practica, logre comprender el proceso de editar manualmente el archivo y hacer el commit del merge.
+Plan de accion: Practicar en casa la resolucion de conflictos con repositorios de prueba, creando ramas con cambios intencionalmente conflictivos para ganar fluidez.
