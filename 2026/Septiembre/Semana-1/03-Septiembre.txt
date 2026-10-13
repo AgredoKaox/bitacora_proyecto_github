@@ -22,3 +22,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Introduccion al concepto de "multiverso" y serie Loki: El instructor introdujo el tema del multiverso como metafora para explicar conceptos de versionamiento, ramas y entornos paralelos en el desarrollo de software. Como apoyo, se proyecto un episodio de la serie Loki para contextualizar la idea de lineas de tiempo alternas y realidades paralelas.
 Impedimento: Confusion inicial: No entendia claramente la relacion entre el multiverso de Loki y la programacion, pero la explicacion del instructor ayudo a aclarar la metafora.
 Plan de accion: Investigar mas sobre el concepto de ramas en Git y como se relaciona con la idea de "realidades alternas" en el desarrollo.
+
+id: 4
+Fecha: 03/09/2026
+hora: 13:40 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Instalacion de Git (ultima version) para Git Bash: Procedimos a instalar la version mas reciente de Git en nuestros equipos, asegurando que Git Bash estuviera correctamente configurado para su uso en futuras actividades.
+Impedimento: Ninguno. La instalacion fue sencilla y sin errores.
+Plan de accion: Familiarizarse con los comandos basicos de Git y preparar el entorno para la proxima actividad practica.
