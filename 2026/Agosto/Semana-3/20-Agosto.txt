@@ -1,0 +1,64 @@
+
+id: 1
+Fecha: 20/08/2026
+hora: 12:30 - 12:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Recepcion de instrucciones y alineacion: El instructor explico la metodologia del dia, indicando que se debian tomar capturas de pantalla de todo el proceso en la terminal (Git Bash) para evidenciar la ejecucion de la actividad de apropiacion, ya que en la sesion anterior no se registro dicho proceso visualmente.
+Impedimento: Confusion inicial: No entendia por que se debia repetir la actividad si ya la habiamos realizado la clase pasada. La falta de claridad sobre el requisito de capturas genero incertidumbre.
+Plan de accion: Preguntar al instructor y a companeros para aclarar el proposito de la actividad y confirmar que el enfoque era documentar el proceso, no repetir el contenido desde cero.
+
+id: 2
+Fecha: 20/08/2026
+hora: 12:50 - 13:20
+autor: Juan Sebastian Agredo Garcia
+Actividad: Ejecucion del laboratorio de apropiacion - Terminal / Git Bash: Realizacion de comandos y procesos en la terminal segun la guia de trabajo, documentando paso a paso con capturas de pantalla para evidenciar la ejecucion completa.
+Impedimento: Ningun impedimento.
+Plan de accion: Continuar con la siguiente actividad segun lo indicado por el instructor.
+
+id: 3
+Fecha: 20/08/2026
+hora: 13:20 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion y desarrollo de la guia CL1: El instructor explico el contenido de la guia CL1 y se respondieron las preguntas planteadas en ella para comprender mejor los conceptos. Posteriormente, se realizo el laboratorio correspondiente a la guia CL1.
+Impedimento: Ningun impedimento.
+Plan de accion: Aplicar los conocimientos adquiridos en la evaluacion programada. Si surge alguna duda especifica, consultarla con el instructor antes de la prueba.
+
+id: 4
+Fecha: 20/08/2026
+hora: 14:00 - 16:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Estudio y preparacion autonoma para evaluacion: Revision y analisis exhaustivo de las infografias proporcionadas por el instructor, con el objetivo de afianzar conceptos clave y prepararse para la proxima actividad de tipo evaluativo (quiz/prueba) anunciada por el instructor.
+Impedimento: Ningun impedimento.
+Plan de accion: Realizar los siguientes puntos de la actividad deseada para culminarla.
+
+id: 5
+Fecha: 20/08/2026
+hora: 16:00 - 16:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Induccion institucional sobre prevencion del dengue: El instructor explico que es el dengue, como se transmite, sintomas y medidas de prevencion. Actividad obligatoria de bienestar para toda la ficha.
+Impedimento: Ningun impedimento.
+Plan de accion: Aplicar las medidas preventivas en el entorno diario y estar atento a futuras campanas de salud.
+
+id: 6
+Fecha: 20/08/2026
+hora: 16:30 - 17:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Actividad ludica de repaso - Kahoot en grupos: Realizacion de dos (2) rondas de Kahoot organizadas por equipos. La primera ronda tuvo premio para el grupo ganador. La segunda ronda definio el tema para una exposicion grupal posterior.
+Impedimento: Ningun impedimento.
+Plan de accion: Preparar la exposicion asignada segun el tema resultante del segundo Kahoot.
+
+id: 7
+Fecha: 20/08/2026
+hora: 17:00 - 18:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Transicion y nueva instruccion tecnica: El instructor indico que debiamos desconectar el mouse y trabajar exclusivamente con teclado para el siguiente ejercicio. Esto implico un cambio de paradigma en la interaccion con el computador.
+Impedimento: Curva de aprendizaje: Al principio costo acostumbrarse a navegar y ejecutar comandos solo con teclado, pero rapidamente se tomo ritmo.
+Plan de accion: Practicar atajos de teclado y comandos de terminal para futuros ejercicios similares.
+
+id: 8
+Fecha: 20/08/2026
+hora: 18:00 - 18:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Momento de transparencia - Trabajo en terminal con historial: Creacion de un archivo dentro de una carpeta especifica utilizando comandos de terminal (Git Bash o CMD). Posteriormente, se reviso el historial de comandos (history) para verificar la secuencia de pasos ejecutados y documentar el proceso correctamente.
+Impedimento: Ninguno tecnico. El desafio fue recordar los comandos exactos sin ayuda visual del mouse, pero se logro completar la tarea.
+Plan de accion: Organizar las capturas y el historial en un documento para entregar al instructor como evidencia.
