@@ -1,0 +1,104 @@
+
+id: 1
+Fecha: 17/09/2026
+hora: 12:45 - 14:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Presentacion de proyecto de etapa practica - Defensa Civil: Un aprendiz en etapa practica presento su proyecto para la Defensa Civil. Es un proyecto extenso, desarrollado durante casi 1 ano con diferentes aprendices del SENA que han ido aportando al mismo. La presentacion incluyo alcance, funcionalidades y arquitectura general.
+Impedimento: Ninguno. La presentacion fue clara y motivadora, mostrando un caso real de aplicacion de lo aprendido.
+Plan de accion: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.
+
+id: 2
+Fecha: 17/09/2026
+hora: 14:15 - 14:40
+autor: Juan Sebastian Agredo Garcia
+Actividad: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.Explicacion de la instructora sobre opcion de vinculacion al proyecto: La instructora nos comento que quienes estemos dispuestos a seguir con el proyecto de la Defensa Civil no tendriamos que presentar proyecto con ella, pero si entregar una tabla de base de datos disenada, para evaluar nuestra capacidad de relacionar tablas y hacer consultas, asi como nuestro manejo en SQL.
+Impedimento: Ninguno. La explicacion fue clara sobre las condiciones y el alcance del entregable alternativo.
+Plan de accion: Evaluar la decision de vincularme al proyecto y, si es asi, empezar a disenar la tabla de base de datos y practicar consultas SQL.
+
+id: 3
+Fecha: 17/09/2026
+hora: 14:40 - 15:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion de la actividad de Git: La instructora explico que, en el trabajo de Git, cada minima accion sera un componente evaluable: si se hizo un git init -> un componente; si se hizo eliminacion de archivos -> un componente; si se hizo creacion o comentario de cualquier cosa -> otro componente. Es decir, la actividad de Git esta dividida en muchas partes, y cada una debe quedar registrada. El resto de la bitacora seria como una bitacora normal: lo del aprendiz de practica y la explicacion.
+Impedimento: Ninguno. La explicacion fue breve pero clara; quedo entendido que cada comando o accion en Git debe documentarse como un componente separado.
+Plan de accion: Empezar a documentar cada accion de Git como un componente individual en la bitacora.
+
+id: 4
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 1 - Inicializacion del repositorio: Creacion del repositorio local recuperar-desde-cero con git init. Creacion del archivo base (base.txt) con nano, git add base.txt y git commit -m "creacion de la base del desarrollo".
+Impedimento: Ninguno. El comando git add mostro advertencia de LF/CRLF, pero no afecto el resultado.
+Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
+
+id: 5
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 2 - Creacion de ramas develop y feature: Ejecucion de git branch develop y git branch feature. Verificacion con git branch de las ramas existentes.
+Impedimento: Ninguno. Las ramas se crearon correctamente.
+Plan de accion: Practicar la diferencia entre git branch y git checkout -b.
+
+id: 6
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 3 - Trabajo en develop: Cambio a la rama develop con git switch develop. Creacion del archivo solucion.txt con nano. git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
+Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
+Plan de accion: Verificar que solucion.txt existe solo en develop.
+
+id: 7
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 4 - Creacion del archivo en feature: Cambio a la rama feature con git switch feature. Creacion de tesoro.txt con nano. git add + git commit -m "Creo el archivo tesoro en feature". Identificacion del hash con git log --oneline.
+Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
+Plan de accion: Verificar que solucion.txt existe solo en develop.
+
+id: 8
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: a Componente 5 - Eliminacion del archivo tesoro.txt: Ejecucion de rm tesoro.txt para eliminar el archivo del directorio de trabajo. git add -A para preparar la eliminacion. git commit -m "Elimino el archivo tesoro". Verificacion con ls y git log --oneline.
+Impedimento: Ninguno. El archivo quedo registrado en el historial de feature.
+Plan de accion: Anotar el hash del commit para la recuperacion posterior.
+
+id: 9
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 6 - Recuperacion del archivo con git reflog: Ejecucion de git reflog para ver el historial completo y localizar el commit donde existia tesoro.txt. Uso de git checkout d79a110 -- tesoro.txt para traer solo el archivo desde el pasado sin mover el HEAD. Verificacion con ls y cat tesoro.txt.
+Impedimento: Ninguno. La recuperacion fue exitosa; el archivo volvio con su contenido original.
+Plan de accion: Guardar la recuperacion con git add tesoro.txt y git commit -m "Recupero el archivo tesoro desde el pasado".
+
+id: 10
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 7 - Fusion de feature en develop: Cambio a develop con git switch develop. Ejecucion de git merge --no-ff feature -m "Integro feature en develop". Verificacion del merge exitoso.
+Impedimento: Ninguno. La fusion se completo correctamente.
+Plan de accion: Verificar que main tiene todos los archivos integrados.
+
+id: 11
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 8 - Fusion de develop en main: Cambio a main con git switch main. Ejecucion de git merge --no-ff develop -m "Integro develop en main". Verificacion del merge exitoso.
+Impedimento: Ninguno. Las ramas se eliminaron correctamente.
+Plan de accion: Mantener el repositorio limpio y organizado.
+
+id: 12
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: arcia Componente 9 - Limpieza de ramas: Eliminacion de las ramas ya fusionadas: git branch -d feature y git branch -d develop. Verificacion con git branch de que solo queda main.
+Impedimento: Ninguno. El historial muestra claramente el flujo de trabajo completo.
+Plan de accion: Guardar todas las capturas como evidencia para la bitacora.
+
+id: 13
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 10 - Verificacion final y evidencia grafica: Ejecucion de git log --oneline --graph para visualizar el historial final con las fusiones y la recuperacion del archivo. Captura de pantalla como evidencia grafica de exito.
+Impedimento: Ninguno.
+Plan de accion: Definir si me vinculo al proyecto de la Defensa Civil y, en caso afirmativo, comenzar con el diseno de la tabla de BD y consultas SQL.
