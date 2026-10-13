@@ -22,3 +22,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Kahoot de desestres: Se realizaron 2 rondas de Kahoot con las mismas preguntas: una en grupo y otra individual, con el objetivo de divertirnos, desestresarnos y repasar de forma ludica.
 Impedimento: Ninguno. La dinamica fue entretenida y ayudo a bajar la tension despues de la actividad tecnica.
 Plan de accion: Identificar las preguntas falladas para repasar esos temas.
+
+id: 4
+Fecha: 10/09/2026
+hora: 16:30 - 17:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Reflexion inicial de la nueva guia de commit - Mini juego "Hackers vs Detectives": Se organizaron 2 grupos: uno de hackers y uno de detectives. La dinamica consistio en encontrar el codigo que salvaria todo. Despues se inicio la reflexion inicial de la nueva guia de commit.
+Impedimento: Ninguno. La dinamica fue clara y colaborativa; solo se requirio coordinar roles al inicio.
+Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
