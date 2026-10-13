@@ -38,3 +38,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Practica guiada de Git - Creacion de archivos, edicion con nano, commits y verificacion de historial: Realizacion de una guia de prueba que consistio en: crear un repositorio local (git init), crear archivos .txt, editarlos con el editor nano, hacer commits de los cambios y visualizar el historial con git log.
 Impedimento: Ninguno tecnico. Los comandos se ejecutaron sin errores; sin embargo, al principio tuve que recordar la sintaxis exacta de algunos comandos, pero con la practica fluyo bien.
 Plan de accion: Revisar los comandos de Git practicados y experimentar con ramas (git branch, git checkout) para profundizar.
+
+id: 6
+Fecha: 03/09/2026
+hora: 14:50 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Dinamica grupal para definir penitencia por tardanzas: El instructor propuso una lluvia de ideas entre todo el grupo para acordar una "penitencia" o consecuencia simbolica que se aplicaria a quienes lleguen tarde a partir de ahora. El objetivo era fomentar la puntualidad de manera colaborativa y ludica.
+Impedimento: Ninguno. La dinamica fue participativa y se logro un acuerdo grupal.
+Plan de accion: Cumplir con el horario establecido y respetar la penitencia acordada para evitar aplicarla.
