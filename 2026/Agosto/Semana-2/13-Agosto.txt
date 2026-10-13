@@ -46,3 +46,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Realizacion de la actividad de contextualizacion.
 Impedimento: no tenia claro por completmanete lo que se necesataba hacer o realizar.
 Plan de accion: Preguntarle de buena beanera la instructor que tocaba hacer y poder resolver mis dudas para poder realiazar la actividad.
+
+id: 7
+Fecha: 13/08/2026
+hora: 17:44 - 18:10
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion y Realizacion de la actividad de Apropiacion en la terminal.
+Impedimento: Ningun impedimento.
+Plan de accion: Llenar un documento de permiso sobre entrevista de mi experiencia con el ingles .
