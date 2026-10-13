@@ -54,3 +54,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Transicion y nueva instruccion tecnica: El instructor indico que debiamos desconectar el mouse y trabajar exclusivamente con teclado para el siguiente ejercicio. Esto implico un cambio de paradigma en la interaccion con el computador.
 Impedimento: Curva de aprendizaje: Al principio costo acostumbrarse a navegar y ejecutar comandos solo con teclado, pero rapidamente se tomo ritmo.
 Plan de accion: Practicar atajos de teclado y comandos de terminal para futuros ejercicios similares.
+
+id: 8
+Fecha: 20/08/2026
+hora: 18:00 - 18:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Momento de transparencia - Trabajo en terminal con historial: Creacion de un archivo dentro de una carpeta especifica utilizando comandos de terminal (Git Bash o CMD). Posteriormente, se reviso el historial de comandos (history) para verificar la secuencia de pasos ejecutados y documentar el proceso correctamente.
+Impedimento: Ninguno tecnico. El desafio fue recordar los comandos exactos sin ayuda visual del mouse, pero se logro completar la tarea.
+Plan de accion: Organizar las capturas y el historial en un documento para entregar al instructor como evidencia.
