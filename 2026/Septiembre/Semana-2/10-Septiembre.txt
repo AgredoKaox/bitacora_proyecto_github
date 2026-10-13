@@ -6,3 +6,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Lectura y comprension de la actividad: Desde el inicio de la clase hasta la 1:00 pm, el instructor nos dejo leer la guia de la actividad a realizar para entender el objetivo, los pasos y lo que teniamos que hacer.
 Impedimento: Ninguno. El tiempo fue suficiente para comprender la actividad.
 Plan de accion: Identificar los comandos clave y preparar el entorno en Git Bash antes de empezar.
+
+id: 2
+Fecha: 10/09/2026
+hora: 13:00 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Desarrollo de la actividad "Transparencia 3.4" en terminal Git Bash: El instructor puso un contador de 2 horas para desarrollar la actividad de ramas y conflictos siguiendo las indicaciones de la guia.
+Impedimento: Confusion al unir dos ramas incorrectas: Al principio me equivoque en el merge, uni ramas que no correspondian. Para no perder mas tiempo, decidi reiniciar todo desde cero y repetir el procedimiento correctamente.
+Plan de accion: Verificar siempre los nombres de las ramas antes de hacer merge (git branch). Seguir la guia paso a paso y, si hay dudas, preguntar al instructor o a companeros antes de ejecutar. Practicar git log --graph para visualizar el historial.
