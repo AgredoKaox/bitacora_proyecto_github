@@ -14,3 +14,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Mini prueba con Kahoot: Despues de la exposicion, se realizo un Kahoot a modo de mini prueba para evaluar la comprension de los temas expuestos sobre la terminal..
 Impedimento: Ninguno. La dinamica fue rapida y permitio identificar fortalezas y debilidades en el conocimiento.
 Plan de accion: Reforzar los temas donde se tuvieron fallos en el Kahoot.
+
+id: 3
+Fecha: 03/09/2026
+hora: 13:10 - 13:40
+autor: Juan Sebastian Agredo Garcia
+Actividad: Introduccion al concepto de "multiverso" y serie Loki: El instructor introdujo el tema del multiverso como metafora para explicar conceptos de versionamiento, ramas y entornos paralelos en el desarrollo de software. Como apoyo, se proyecto un episodio de la serie Loki para contextualizar la idea de lineas de tiempo alternas y realidades paralelas.
+Impedimento: Confusion inicial: No entendia claramente la relacion entre el multiverso de Loki y la programacion, pero la explicacion del instructor ayudo a aclarar la metafora.
+Plan de accion: Investigar mas sobre el concepto de ramas en Git y como se relaciona con la idea de "realidades alternas" en el desarrollo.
