@@ -30,3 +30,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Instalacion de Git (ultima version) para Git Bash: Procedimos a instalar la version mas reciente de Git en nuestros equipos, asegurando que Git Bash estuviera correctamente configurado para su uso en futuras actividades.
 Impedimento: Ninguno. La instalacion fue sencilla y sin errores.
 Plan de accion: Familiarizarse con los comandos basicos de Git y preparar el entorno para la proxima actividad practica.
+
+id: 5
+Fecha: 03/09/2026
+hora: 14:00 - 14:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Practica guiada de Git - Creacion de archivos, edicion con nano, commits y verificacion de historial: Realizacion de una guia de prueba que consistio en: crear un repositorio local (git init), crear archivos .txt, editarlos con el editor nano, hacer commits de los cambios y visualizar el historial con git log.
+Impedimento: Ninguno tecnico. Los comandos se ejecutaron sin errores; sin embargo, al principio tuve que recordar la sintaxis exacta de algunos comandos, pero con la practica fluyo bien.
+Plan de accion: Revisar los comandos de Git practicados y experimentar con ramas (git branch, git checkout) para profundizar.
