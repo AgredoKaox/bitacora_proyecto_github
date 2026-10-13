@@ -22,3 +22,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Explicacion de la actividad de Git: La instructora explico que, en el trabajo de Git, cada minima accion sera un componente evaluable: si se hizo un git init -> un componente; si se hizo eliminacion de archivos -> un componente; si se hizo creacion o comentario de cualquier cosa -> otro componente. Es decir, la actividad de Git esta dividida en muchas partes, y cada una debe quedar registrada. El resto de la bitacora seria como una bitacora normal: lo del aprendiz de practica y la explicacion.
 Impedimento: Ninguno. La explicacion fue breve pero clara; quedo entendido que cada comando o accion en Git debe documentarse como un componente separado.
 Plan de accion: Empezar a documentar cada accion de Git como un componente individual en la bitacora.
+
+id: 4
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 1 - Inicializacion del repositorio: Creacion del repositorio local recuperar-desde-cero con git init. Creacion del archivo base (base.txt) con nano, git add base.txt y git commit -m "creacion de la base del desarrollo".
+Impedimento: Ninguno. El comando git add mostro advertencia de LF/CRLF, pero no afecto el resultado.
+Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
