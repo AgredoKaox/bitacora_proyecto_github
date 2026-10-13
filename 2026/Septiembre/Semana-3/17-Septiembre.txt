@@ -78,3 +78,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 7 - Fusion de feature en develop: Cambio a develop con git switch develop. Ejecucion de git merge --no-ff feature -m "Integro feature en develop". Verificacion del merge exitoso.
 Impedimento: Ninguno. La fusion se completo correctamente.
 Plan de accion: Verificar que main tiene todos los archivos integrados.
+
+id: 11
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 8 - Fusion de develop en main: Cambio a main con git switch main. Ejecucion de git merge --no-ff develop -m "Integro develop en main". Verificacion del merge exitoso.
+Impedimento: Ninguno. Las ramas se eliminaron correctamente.
+Plan de accion: Mantener el repositorio limpio y organizado.
