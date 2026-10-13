@@ -1,0 +1,80 @@
+
+id: 1
+Fecha: 03/09/2026
+hora: 12:45 - 12:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Exposicion y video explicativo sobre terminal: Los companeros de clase presentaron una exposicion sobre el uso y comandos de la terminal, complementada con un video explicativo que reforzo los conceptos mostrados
+Impedimento: Ninguno. La exposicion fue clara y el video ayudo a afianzar conceptos ya vistos.
+Plan de accion: Repasar los comandos mencionados para estar al dia con el nivel del grupo.
+
+id: 2
+Fecha: 03/09/2026
+hora: 12:50 - 13:10
+autor: Juan Sebastian Agredo Garcia
+Actividad: Mini prueba con Kahoot: Despues de la exposicion, se realizo un Kahoot a modo de mini prueba para evaluar la comprension de los temas expuestos sobre la terminal..
+Impedimento: Ninguno. La dinamica fue rapida y permitio identificar fortalezas y debilidades en el conocimiento.
+Plan de accion: Reforzar los temas donde se tuvieron fallos en el Kahoot.
+
+id: 3
+Fecha: 03/09/2026
+hora: 13:10 - 13:40
+autor: Juan Sebastian Agredo Garcia
+Actividad: Introduccion al concepto de "multiverso" y serie Loki: El instructor introdujo el tema del multiverso como metafora para explicar conceptos de versionamiento, ramas y entornos paralelos en el desarrollo de software. Como apoyo, se proyecto un episodio de la serie Loki para contextualizar la idea de lineas de tiempo alternas y realidades paralelas.
+Impedimento: Confusion inicial: No entendia claramente la relacion entre el multiverso de Loki y la programacion, pero la explicacion del instructor ayudo a aclarar la metafora.
+Plan de accion: Investigar mas sobre el concepto de ramas en Git y como se relaciona con la idea de "realidades alternas" en el desarrollo.
+
+id: 4
+Fecha: 03/09/2026
+hora: 13:40 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Instalacion de Git (ultima version) para Git Bash: Procedimos a instalar la version mas reciente de Git en nuestros equipos, asegurando que Git Bash estuviera correctamente configurado para su uso en futuras actividades.
+Impedimento: Ninguno. La instalacion fue sencilla y sin errores.
+Plan de accion: Familiarizarse con los comandos basicos de Git y preparar el entorno para la proxima actividad practica.
+
+id: 5
+Fecha: 03/09/2026
+hora: 14:00 - 14:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Practica guiada de Git - Creacion de archivos, edicion con nano, commits y verificacion de historial: Realizacion de una guia de prueba que consistio en: crear un repositorio local (git init), crear archivos .txt, editarlos con el editor nano, hacer commits de los cambios y visualizar el historial con git log.
+Impedimento: Ninguno tecnico. Los comandos se ejecutaron sin errores; sin embargo, al principio tuve que recordar la sintaxis exacta de algunos comandos, pero con la practica fluyo bien.
+Plan de accion: Revisar los comandos de Git practicados y experimentar con ramas (git branch, git checkout) para profundizar.
+
+id: 6
+Fecha: 03/09/2026
+hora: 14:50 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Dinamica grupal para definir penitencia por tardanzas: El instructor propuso una lluvia de ideas entre todo el grupo para acordar una "penitencia" o consecuencia simbolica que se aplicaria a quienes lleguen tarde a partir de ahora. El objetivo era fomentar la puntualidad de manera colaborativa y ludica.
+Impedimento: Ninguno. La dinamica fue participativa y se logro un acuerdo grupal.
+Plan de accion: Cumplir con el horario establecido y respetar la penitencia acordada para evitar aplicarla.
+
+id: 7
+Fecha: 03/09/2026
+hora: 15:30 - 15:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Entrega del trabajo practico de Git antes del descanso: El instructor dio 15 minutos adicionales para finalizar y entregar el trabajo de la guia de Git que estabamos realizando, con el fin de cerrar la actividad antes del receso.
+Impedimento: Ninguno. El tiempo fue suficiente para revisar y entregar el trabajo sin contratiempos.
+Plan de accion: Ninguno tecnico. Los comandos se ejecutaron sin errores; sin embargo, al principio tuve que recordar la sintaxis exacta de algunos comandos, pero con la practica fluyo bien.
+
+id: 8
+Fecha: 03/09/2026
+hora: 15:50 - 16:20
+autor: Juan Sebastian Agredo Garcia
+Actividad: Votacion para definicion de penitencia por entregas tardias: Se realizo una votacion grupal para decidir la penitencia o consecuencia simbolica que se aplicaria a quienes entreguen trabajos fuera de plazo. El objetivo era fomentar la responsabilidad y puntualidad en las entregas.
+Impedimento: Ninguno. El proceso fue democratico y ordenado.
+Plan de accion: ordenado. Respetar el acuerdo tomado y esforzarse por cumplir con las fechas de entrega establecidas.
+
+id: 9
+Fecha: 03/09/2026
+hora: 16:20 - 16:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Presentacion de candidatos a representantes de aprendices: Los aspirantes al cargo de representante del grupo expusieron sus ideas, propuestas y ofertas para mejorar la experiencia de formacion. Se realizo un espacio de escucha activa y preguntas.
+Impedimento: Ninguno. La presentacion fue clara y permitio conocer las distintas propuestas.
+Plan de accion: Evaluar las propuestas de los candidatos y estar atento a la fecha de votacion formal para elegir al representante.
+
+id: 10
+Fecha: 03/09/2026
+hora: 16:50 - 18:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Ejercicio guiado sobre ramas y conflictos en Git: El instructor guio un ejercicio practico donde se trabajo con ramas (git branch, git checkout), se realizaron cambios en diferentes ramas y se simularon conflictos de fusion (merge) para aprender a resolverlos.
+Impedimento: Confusion en la resolucion de conflictos: Al principio no entendia como resolver un conflicto cuando dos ramas modificaban la misma linea de un archivo. Con la guia del instructor y la practica, logre comprender el proceso de editar manualmente el archivo y hacer el commit del merge.
+Plan de accion: Practicar en casa la resolucion de conflictos con repositorios de prueba, creando ramas con cambios intencionalmente conflictivos para ganar fluidez.
