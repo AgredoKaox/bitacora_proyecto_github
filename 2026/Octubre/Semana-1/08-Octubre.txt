@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 08/10/2026
+hora: 12:45 - 14:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Inicio de la actividad de GitHub - Conformacion de grupos: El instructor inicio la jornada retomando la guia de GitHub. Se conformaron los grupos de trabajo definitivos por medio de una ruleta, los cuales se mantendran durante el resto del trimestre para el desarrollo del proyecto colaborativo.
+Impedimento: Ninguno. La dinamica de la ruleta fue clara y aleatoria.
+Plan de accion: Identificar a los integrantes del grupo y coordinar los primeros acercamientos para el trabajo colaborativo.
