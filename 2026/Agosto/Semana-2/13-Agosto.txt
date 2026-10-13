@@ -30,3 +30,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Realizacion de la bitacora, hasta el punto en el cual estamos y hemos llegado completando lo que hemos hecho hasta el pricipio de jornada de formacion.
 Impedimento: Ningun impedimento.
 Plan de accion: Realizar los siguientes puntos de la actividad deseada para culminarla.
+
+id: 5
+Fecha: 13/08/2026
+hora: 15:50 - 16:10
+autor: Juan Sebastian Agredo Garcia
+Actividad: Realizacion de la actividad de reflexion inicial.
+Impedimento: Ningun impedimento.
+Plan de accion: Esperar indicaciones del instructor para la realizacion de la actividad de contextualizacion.
