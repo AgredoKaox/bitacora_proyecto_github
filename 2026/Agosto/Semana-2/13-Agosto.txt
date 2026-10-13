@@ -6,3 +6,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Explicacion y condicionamineto de la nueva actividad yguia tratada de la terminal con un breve tiempo de lectura de las indicaciones
 Impedimento: llegada tardia al ambiente de formacion, el cual no pude etender de buena manera lo que se estaba haciendo
 Plan de accion: preguntar al instructor tanto a companeros de las fichas, que se estaba realizando y pidiendo indicacciones y seguimiento de lo que habia que hacer
+
+id: 2
+Fecha: 13/08/2026
+hora: 13:30 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: explicacion de actividad de reflexion inicial para poder realizar el entregable.
+Impedimento: No entendi muy bien al principio lo que se pedia realizar y que cumplir, estaba un poco perdido.
+Plan de accion: Poner mas atencion e las indicacciones y consejos que me daban mis companeros de clase y lo que pedia el instructor.
