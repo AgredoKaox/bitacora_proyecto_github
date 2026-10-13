@@ -14,3 +14,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Ejecucion del laboratorio de apropiacion - Terminal / Git Bash: Realizacion de comandos y procesos en la terminal segun la guia de trabajo, documentando paso a paso con capturas de pantalla para evidenciar la ejecucion completa.
 Impedimento: Ningun impedimento.
 Plan de accion: Continuar con la siguiente actividad segun lo indicado por el instructor.
+
+id: 3
+Fecha: 20/08/2026
+hora: 13:20 - 14:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion y desarrollo de la guia CL1: El instructor explico el contenido de la guia CL1 y se respondieron las preguntas planteadas en ella para comprender mejor los conceptos. Posteriormente, se realizo el laboratorio correspondiente a la guia CL1.
+Impedimento: Ningun impedimento.
+Plan de accion: Aplicar los conocimientos adquiridos en la evaluacion programada. Si surge alguna duda especifica, consultarla con el instructor antes de la prueba.
