@@ -94,3 +94,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: arcia Componente 9 - Limpieza de ramas: Eliminacion de las ramas ya fusionadas: git branch -d feature y git branch -d develop. Verificacion con git branch de que solo queda main.
 Impedimento: Ninguno. El historial muestra claramente el flujo de trabajo completo.
 Plan de accion: Guardar todas las capturas como evidencia para la bitacora.
+
+id: 13
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 10 - Verificacion final y evidencia grafica: Ejecucion de git log --oneline --graph para visualizar el historial final con las fusiones y la recuperacion del archivo. Captura de pantalla como evidencia grafica de exito.
+Impedimento: Ninguno.
+Plan de accion: Definir si me vinculo al proyecto de la Defensa Civil y, en caso afirmativo, comenzar con el diseno de la tabla de BD y consultas SQL.
