@@ -38,3 +38,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Induccion institucional sobre prevencion del dengue: El instructor explico que es el dengue, como se transmite, sintomas y medidas de prevencion. Actividad obligatoria de bienestar para toda la ficha.
 Impedimento: Ningun impedimento.
 Plan de accion: Aplicar las medidas preventivas en el entorno diario y estar atento a futuras campanas de salud.
+
+id: 6
+Fecha: 20/08/2026
+hora: 16:30 - 17:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Actividad ludica de repaso - Kahoot en grupos: Realizacion de dos (2) rondas de Kahoot organizadas por equipos. La primera ronda tuvo premio para el grupo ganador. La segunda ronda definio el tema para una exposicion grupal posterior.
+Impedimento: Ningun impedimento.
+Plan de accion: Preparar la exposicion asignada segun el tema resultante del segundo Kahoot.
