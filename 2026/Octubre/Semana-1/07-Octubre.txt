@@ -1,0 +1,16 @@
+
+id: 1
+Fecha: 07/10/2026
+hora: 13:00 - 13:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Continuacion de la actividad de Git - Revision uno por uno: Se retomo la dinamica del dia anterior. Los aprendices que faltaban pasaron al frente a ejecutar los comandos y flujos de Git frente al instructor, demostrando su dominio practico.
+Impedimento: Ninguno. La dinamica continuo sin contratiempos.
+Plan de accion: Repasar los comandos pendientes y prepararse para la nueva guia de GitHub.
+
+id: 2
+Fecha: 07/10/2026
+hora: 13:15 - 18:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion de la nueva guia de GitHub: Una hora antes de salir (5:30 pm), el instructor empezo a explicar la nueva guia de GitHub. Nos dio orientaciones para crear la cuenta en GitHub y explico los pasos iniciales que se trabajarian en la siguiente jornada.
+Impedimento: Ninguno. La explicacion fue clara y orientadora.
+Plan de accion: Crear la cuenta de GitHub en casa y explorar la interfaz antes de la proxima sesion.
