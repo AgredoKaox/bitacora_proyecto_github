@@ -46,3 +46,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 3 - Trabajo en develop: Cambio a la rama develop con git switch develop. Creacion del archivo solucion.txt con nano. git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
 Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
 Plan de accion: Verificar que solucion.txt existe solo en develop.
+
+id: 7
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 4 - Creacion del archivo en feature: Cambio a la rama feature con git switch feature. Creacion de tesoro.txt con nano. git add + git commit -m "Creo el archivo tesoro en feature". Identificacion del hash con git log --oneline.
+Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
+Plan de accion: Verificar que solucion.txt existe solo en develop.
