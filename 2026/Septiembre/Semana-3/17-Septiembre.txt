@@ -30,3 +30,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 1 - Inicializacion del repositorio: Creacion del repositorio local recuperar-desde-cero con git init. Creacion del archivo base (base.txt) con nano, git add base.txt y git commit -m "creacion de la base del desarrollo".
 Impedimento: Ninguno. El comando git add mostro advertencia de LF/CRLF, pero no afecto el resultado.
 Plan de accion: Relacionar la dinamica del juego con los conceptos de commit, historial y trabajo colaborativo en Git.
+
+id: 5
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 2 - Creacion de ramas develop y feature: Ejecucion de git branch develop y git branch feature. Verificacion con git branch de las ramas existentes.
+Impedimento: Ninguno. Las ramas se crearon correctamente.
+Plan de accion: Practicar la diferencia entre git branch y git checkout -b.
