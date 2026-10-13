@@ -86,3 +86,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 8 - Fusion de develop en main: Cambio a main con git switch main. Ejecucion de git merge --no-ff develop -m "Integro develop en main". Verificacion del merge exitoso.
 Impedimento: Ninguno. Las ramas se eliminaron correctamente.
 Plan de accion: Mantener el repositorio limpio y organizado.
+
+id: 12
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: arcia Componente 9 - Limpieza de ramas: Eliminacion de las ramas ya fusionadas: git branch -d feature y git branch -d develop. Verificacion con git branch de que solo queda main.
+Impedimento: Ninguno. El historial muestra claramente el flujo de trabajo completo.
+Plan de accion: Guardar todas las capturas como evidencia para la bitacora.
