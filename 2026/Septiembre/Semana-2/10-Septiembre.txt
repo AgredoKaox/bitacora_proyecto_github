@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 10/09/2026
+hora: 12:30 - 13:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Lectura y comprension de la actividad: Desde el inicio de la clase hasta la 1:00 pm, el instructor nos dejo leer la guia de la actividad a realizar para entender el objetivo, los pasos y lo que teniamos que hacer.
+Impedimento: Ninguno. El tiempo fue suficiente para comprender la actividad.
+Plan de accion: Identificar los comandos clave y preparar el entorno en Git Bash antes de empezar.
