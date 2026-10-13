@@ -14,3 +14,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Desarrollo de la actividad "Transparencia 3.4" en terminal Git Bash: El instructor puso un contador de 2 horas para desarrollar la actividad de ramas y conflictos siguiendo las indicaciones de la guia.
 Impedimento: Confusion al unir dos ramas incorrectas: Al principio me equivoque en el merge, uni ramas que no correspondian. Para no perder mas tiempo, decidi reiniciar todo desde cero y repetir el procedimiento correctamente.
 Plan de accion: Verificar siempre los nombres de las ramas antes de hacer merge (git branch). Seguir la guia paso a paso y, si hay dudas, preguntar al instructor o a companeros antes de ejecutar. Practicar git log --graph para visualizar el historial.
+
+id: 3
+Fecha: 10/09/2026
+hora: 15:30 - 16:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Kahoot de desestres: Se realizaron 2 rondas de Kahoot con las mismas preguntas: una en grupo y otra individual, con el objetivo de divertirnos, desestresarnos y repasar de forma ludica.
+Impedimento: Ninguno. La dinamica fue entretenida y ayudo a bajar la tension despues de la actividad tecnica.
+Plan de accion: Identificar las preguntas falladas para repasar esos temas.
