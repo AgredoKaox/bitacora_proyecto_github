@@ -62,3 +62,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: a Componente 5 - Eliminacion del archivo tesoro.txt: Ejecucion de rm tesoro.txt para eliminar el archivo del directorio de trabajo. git add -A para preparar la eliminacion. git commit -m "Elimino el archivo tesoro". Verificacion con ls y git log --oneline.
 Impedimento: Ninguno. El archivo quedo registrado en el historial de feature.
 Plan de accion: Anotar el hash del commit para la recuperacion posterior.
+
+id: 9
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 6 - Recuperacion del archivo con git reflog: Ejecucion de git reflog para ver el historial completo y localizar el commit donde existia tesoro.txt. Uso de git checkout d79a110 -- tesoro.txt para traer solo el archivo desde el pasado sin mover el HEAD. Verificacion con ls y cat tesoro.txt.
+Impedimento: Ninguno. La recuperacion fue exitosa; el archivo volvio con su contenido original.
+Plan de accion: Guardar la recuperacion con git add tesoro.txt y git commit -m "Recupero el archivo tesoro desde el pasado".
