@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 24/09/2026
+hora: 12:45 - 15:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Presentacion de proyecto de etapa practica - Defensa Civil: Un aprendiz en etapa practica presento su proyecto para la Defensa Civil. Es un proyecto extenso, desarrollado durante casi 1 ano con diferentes aprendices del SENA que han ido aportando al mismo. La presentacion incluyo alcance, funcionalidades y arquitectura general.
+Impedimento: Ninguno. La presentacion fue clara y motivadora, mostrando un caso real de aplicacion de lo aprendido.
+Plan de accion: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.
