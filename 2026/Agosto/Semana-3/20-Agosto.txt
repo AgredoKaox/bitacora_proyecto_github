@@ -30,3 +30,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Estudio y preparacion autonoma para evaluacion: Revision y analisis exhaustivo de las infografias proporcionadas por el instructor, con el objetivo de afianzar conceptos clave y prepararse para la proxima actividad de tipo evaluativo (quiz/prueba) anunciada por el instructor.
 Impedimento: Ningun impedimento.
 Plan de accion: Realizar los siguientes puntos de la actividad deseada para culminarla.
+
+id: 5
+Fecha: 20/08/2026
+hora: 16:00 - 16:30
+autor: Juan Sebastian Agredo Garcia
+Actividad: Induccion institucional sobre prevencion del dengue: El instructor explico que es el dengue, como se transmite, sintomas y medidas de prevencion. Actividad obligatoria de bienestar para toda la ficha.
+Impedimento: Ningun impedimento.
+Plan de accion: Aplicar las medidas preventivas en el entorno diario y estar atento a futuras campanas de salud.
