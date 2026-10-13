@@ -22,3 +22,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Configuracion de colaboradores y clonacion del repositorio: Despues de varias complicaciones para entender el proceso, la guia dio las indicaciones necesarias para compartir el repositorio, agregar colaboradores y clonar el repositorio en los equipos locales. Se resolvieron dudas sobre permisos y autenticacion.
 Impedimento: Complicaciones iniciales: Al principio fue enredado entender como compartir el repositorio y agregar colaboradores. Se presentaron dudas sobre los permisos y la forma de invitar a los integrantes del grupo. Se resolvio siguiendo paso a paso las indicaciones de la guia.
 Plan de accion: Practicar la creacion de repositorios, agregar colaboradores y clonar repositorios para afianzar el flujo de trabajo colaborativo. Realizar pruebas de push y pull con el grupo.
+
+id: 4
+Fecha: 08/10/2026
+hora: 12:45 - 14:15
+autor: Juan Sebastian Agredo Garcia
+Actividad: Practica de trabajo colaborativo en GitHub: Una vez clonado el repositorio, se realizaron pruebas de modificacion de archivos, commits y sincronizacion (push/pull) entre los integrantes del grupo, para verificar que el flujo colaborativo funcionara correctamente.
+Impedimento: Ninguno relevante. El flujo colaborativo funciono correctamente tras superar la configuracion inicial.
+Plan de accion: Reforzar el uso de comandos git pull y git push, y prepararse para la siguiente actividad de la guia de GitHub.
