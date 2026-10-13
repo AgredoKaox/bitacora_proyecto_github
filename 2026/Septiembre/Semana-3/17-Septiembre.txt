@@ -6,3 +6,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Presentacion de proyecto de etapa practica - Defensa Civil: Un aprendiz en etapa practica presento su proyecto para la Defensa Civil. Es un proyecto extenso, desarrollado durante casi 1 ano con diferentes aprendices del SENA que han ido aportando al mismo. La presentacion incluyo alcance, funcionalidades y arquitectura general.
 Impedimento: Ninguno. La presentacion fue clara y motivadora, mostrando un caso real de aplicacion de lo aprendido.
 Plan de accion: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.
+
+id: 2
+Fecha: 17/09/2026
+hora: 14:15 - 14:40
+autor: Juan Sebastian Agredo Garcia
+Actividad: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.Explicacion de la instructora sobre opcion de vinculacion al proyecto: La instructora nos comento que quienes estemos dispuestos a seguir con el proyecto de la Defensa Civil no tendriamos que presentar proyecto con ella, pero si entregar una tabla de base de datos disenada, para evaluar nuestra capacidad de relacionar tablas y hacer consultas, asi como nuestro manejo en SQL.
+Impedimento: Ninguno. La explicacion fue clara sobre las condiciones y el alcance del entregable alternativo.
+Plan de accion: Evaluar la decision de vincularme al proyecto y, si es asi, empezar a disenar la tabla de base de datos y practicar consultas SQL.
