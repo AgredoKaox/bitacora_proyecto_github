@@ -62,3 +62,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Votacion para definicion de penitencia por entregas tardias: Se realizo una votacion grupal para decidir la penitencia o consecuencia simbolica que se aplicaria a quienes entreguen trabajos fuera de plazo. El objetivo era fomentar la responsabilidad y puntualidad en las entregas.
 Impedimento: Ninguno. El proceso fue democratico y ordenado.
 Plan de accion: ordenado. Respetar el acuerdo tomado y esforzarse por cumplir con las fechas de entrega establecidas.
+
+id: 9
+Fecha: 03/09/2026
+hora: 16:20 - 16:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Presentacion de candidatos a representantes de aprendices: Los aspirantes al cargo de representante del grupo expusieron sus ideas, propuestas y ofertas para mejorar la experiencia de formacion. Se realizo un espacio de escucha activa y preguntas.
+Impedimento: Ninguno. La presentacion fue clara y permitio conocer las distintas propuestas.
+Plan de accion: Evaluar las propuestas de los candidatos y estar atento a la fecha de votacion formal para elegir al representante.
