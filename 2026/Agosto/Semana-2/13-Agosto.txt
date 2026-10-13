@@ -38,3 +38,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Realizacion de la actividad de reflexion inicial.
 Impedimento: Ningun impedimento.
 Plan de accion: Esperar indicaciones del instructor para la realizacion de la actividad de contextualizacion.
+
+id: 6
+Fecha: 13/08/2026
+hora: 16:10 - 17:44
+autor: Juan Sebastian Agredo Garcia
+Actividad: Realizacion de la actividad de contextualizacion.
+Impedimento: no tenia claro por completmanete lo que se necesataba hacer o realizar.
+Plan de accion: Preguntarle de buena beanera la instructor que tocaba hacer y poder resolver mis dudas para poder realiazar la actividad.
