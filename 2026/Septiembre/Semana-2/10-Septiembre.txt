@@ -38,3 +38,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Socializacion de la guia de commit: Una vez terminado el mini juego, empezamos la socializacion de la nueva guia de commit, revisando indicaciones, conceptos y pasos a seguir.
 Impedimento: Ninguno. La explicacion fue clara y se resolvieron dudas generales.
 Plan de accion: Repasar la guia de commit y preparar el entorno para la practica de git commit, git log y control de cambios.
+
+id: 6
+Fecha: 10/09/2026
+hora: 17:20 - 18:00
+autor: Juan Sebastian Agredo Garcia
+Actividad: Actividad 3.2 de contextualizacion - Inicio de Git, ramas de trabajo y ramas temporales: Se comenzo a hablar sobre los init, la manera correcta de hacerlos, con ejemplos en el tablero. Se explico el flujo desde el inicio de Git hasta la creacion de ramas de trabajo y ramas temporales.
+Impedimento: Ninguno. La explicacion fue clara y los ejemplos en el tablero ayudaron a visualizar el proceso.
+Plan de accion: Practicar la creacion de ramas de trabajo y temporales, y repasar la diferencia entre git branch y git checkout -b.
