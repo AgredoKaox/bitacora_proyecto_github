@@ -1,0 +1,8 @@
+
+id: 1
+Fecha: 03/09/2026
+hora: 12:45 - 12:50
+autor: Juan Sebastian Agredo Garcia
+Actividad: Exposicion y video explicativo sobre terminal: Los companeros de clase presentaron una exposicion sobre el uso y comandos de la terminal, complementada con un video explicativo que reforzo los conceptos mostrados
+Impedimento: Ninguno. La exposicion fue clara y el video ayudo a afianzar conceptos ya vistos.
+Plan de accion: Repasar los comandos mencionados para estar al dia con el nivel del grupo.
