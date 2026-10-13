@@ -38,3 +38,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 2 - Creacion de ramas develop y feature: Ejecucion de git branch develop y git branch feature. Verificacion con git branch de las ramas existentes.
 Impedimento: Ninguno. Las ramas se crearon correctamente.
 Plan de accion: Practicar la diferencia entre git branch y git checkout -b.
+
+id: 6
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Componente 3 - Trabajo en develop: Cambio a la rama develop con git switch develop. Creacion del archivo solucion.txt con nano. git add solution.txt y git commit -m "Desarrollo de la primera prueba funcional del sistema".
+Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
+Plan de accion: Verificar que solucion.txt existe solo en develop.
