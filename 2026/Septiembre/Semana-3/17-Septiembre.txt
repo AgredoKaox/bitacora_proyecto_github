@@ -54,3 +54,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Componente 4 - Creacion del archivo en feature: Cambio a la rama feature con git switch feature. Creacion de tesoro.txt con nano. git add + git commit -m "Creo el archivo tesoro en feature". Identificacion del hash con git log --oneline.
 Impedimento: Ninguno. El archivo se creo y commiteo correctamente.
 Plan de accion: Verificar que solucion.txt existe solo en develop.
+
+id: 8
+Fecha: 17/09/2026
+hora: 15:05 - 17:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: a Componente 5 - Eliminacion del archivo tesoro.txt: Ejecucion de rm tesoro.txt para eliminar el archivo del directorio de trabajo. git add -A para preparar la eliminacion. git commit -m "Elimino el archivo tesoro". Verificacion con ls y git log --oneline.
+Impedimento: Ninguno. El archivo quedo registrado en el historial de feature.
+Plan de accion: Anotar el hash del commit para la recuperacion posterior.
