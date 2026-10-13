@@ -14,3 +14,11 @@ autor: Juan Sebastian Agredo Garcia
 Actividad: Analizar si el proyecto es de mi interes para vincularme y seguir aportando en el.Explicacion de la instructora sobre opcion de vinculacion al proyecto: La instructora nos comento que quienes estemos dispuestos a seguir con el proyecto de la Defensa Civil no tendriamos que presentar proyecto con ella, pero si entregar una tabla de base de datos disenada, para evaluar nuestra capacidad de relacionar tablas y hacer consultas, asi como nuestro manejo en SQL.
 Impedimento: Ninguno. La explicacion fue clara sobre las condiciones y el alcance del entregable alternativo.
 Plan de accion: Evaluar la decision de vincularme al proyecto y, si es asi, empezar a disenar la tabla de base de datos y practicar consultas SQL.
+
+id: 3
+Fecha: 17/09/2026
+hora: 14:40 - 15:05
+autor: Juan Sebastian Agredo Garcia
+Actividad: Explicacion de la actividad de Git: La instructora explico que, en el trabajo de Git, cada minima accion sera un componente evaluable: si se hizo un git init -> un componente; si se hizo eliminacion de archivos -> un componente; si se hizo creacion o comentario de cualquier cosa -> otro componente. Es decir, la actividad de Git esta dividida en muchas partes, y cada una debe quedar registrada. El resto de la bitacora seria como una bitacora normal: lo del aprendiz de practica y la explicacion.
+Impedimento: Ninguno. La explicacion fue breve pero clara; quedo entendido que cada comando o accion en Git debe documentarse como un componente separado.
+Plan de accion: Empezar a documentar cada accion de Git como un componente individual en la bitacora.
